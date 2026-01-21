@@ -1,0 +1,9 @@
+# 忽略虚拟环境文件夹
+rag_env/
+
+# 忽略Qwen模型文件夹（对应你左侧的models_cache/qwen-1.8b-chat）
+models_cache/
+
+# 忽略Python编译缓存
+__pycache__/
+*.pyc
